@@ -13,3 +13,13 @@ This repo does only contain the bibliography and the methodology used to derive 
 [![Generic badge](https://img.shields.io/badge/github-repo-<COLOR>.svg)](https://github.com/rkrug/LargeScaleLiteratureReview_DataDeposit)
 [![Generic badge](https://img.shields.io/badge/github-website-<COLOR>.svg)](https://rkrug.github.io/LargeScaleLiteratureReview_DataDeposit/index.html)
 
+# IPBES Chapter 4 Literature Review Literature Results and Analysis
+This repo does contain the results, analysis and the methodology used to derive it.
+
+This repo is in the final stages to be accessible publicly.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4054834.svg)](https://doi.org/10.5281/zenodo.4054834)
+
+[![Generic badge](https://img.shields.io/badge/github-repo-<COLOR>.svg)](https://github.com/rkrug/LargeScaleLiteratureReview_analysis_anonymised_DataDeposit)
+[![Generic badge](https://img.shields.io/badge/github-website-<COLOR>.svg)](https://rkrug.github.io/LargeScaleLiteratureReview_analysis_anonymised_DataDeposit/index.html)
+
