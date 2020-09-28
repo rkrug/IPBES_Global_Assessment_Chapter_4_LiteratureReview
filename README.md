@@ -6,7 +6,7 @@ This repository does not include any data, but points thwe DOIs and the reposito
 These repositories might still be closed, but they will be accssible latest by end 2020.
 
 # IPBES Chapter 4 Literature Review Literature Bibliography
-This repo does only contain the bibliography and the methodology osed to derive it.
+This repo does only contain the bibliography and the methodology used to derive it.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3603072.svg)](https://doi.org/10.5281/zenodo.3603072)
 
